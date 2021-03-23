@@ -1,4 +1,4 @@
-# IMPORT MODULES REQUIRED goal 5252
+# IMPORT MODULES REQUIRED
 
 from tkinter import *
 import datetime
