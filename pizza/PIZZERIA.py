@@ -1,4 +1,4 @@
-# IMPORT MODULES REQUIRED hello
+# IMPORT MODULES REQUIRED
 
 from tkinter import *
 import datetime
